@@ -1,0 +1,13 @@
+{
+  "baseUrl": "https://stg2.rhnonprod.com/us/en",
+  "credentials": {
+    "validUser": {
+      "username": "your-email@example.com",
+      "password": "your-password"
+    },
+    "invalidUser": {
+      "username": "invalid@email.com",
+      "password": "wrongpassword"
+    }
+  }
+} 
